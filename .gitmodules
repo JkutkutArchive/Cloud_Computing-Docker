@@ -1,0 +1,3 @@
+[submodule "Docker4Java"]
+	path = Docker4Java
+	url = git@github.com:jkutkutOrg/Docker4Java.git
